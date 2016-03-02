@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private Button mAddScreenButton;
     private Button mShowScreenButton;
 
+//just a note for testing github
 
 
     @Override
